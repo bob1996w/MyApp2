@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp2</string>
+    <string name="button1_text">押せ！</string>
+    <string name="textview1_1">ハローワールド！</string>
+    <string name="textview1_2">押された！</string>
+    <string name="button2_text">次のページへ</string>
+    <string name="textview2_1">データを受け取れました:</string>
+    <string name="button3_text">通知</string>
+    <string name="notification1_header">ハロー通知！</string>
+    <string name="notification1_content">これは偽通知です。</string>
+</resources>

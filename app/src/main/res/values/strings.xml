@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApp2</string>
+    <string name="button1_text">Click me!</string>
+    <string name="textview1_1">Hello World!</string>
+    <string name="textview1_2">I\'ve been clicked!</string>
+    <string name="button2_text">To next page</string>
+    <string name="textview2_1">Recieved these data:</string>
+    <string name="button3_text">Notification</string>
+    <string name="notification1_header">Hello notification!</string>
+    <string name="notification1_content">This is a fake notification.</string>
+</resources>

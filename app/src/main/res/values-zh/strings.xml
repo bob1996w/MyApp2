@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp2</string>
+    <string name="button1_text">點我！</string>
+    <string name="textview1_1">你好世界！</string>
+    <string name="textview1_2">我被點了！</string>
+    <string name="button2_text">下一頁</string>
+    <string name="textview2_1">收到以下資訊：</string>
+    <string name="button3_text">通知</string>
+    <string name="notification1_header">你好 通知！</string>
+    <string name="notification1_content">這是假通知。</string>
+</resources>
